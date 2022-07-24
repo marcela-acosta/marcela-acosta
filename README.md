@@ -9,7 +9,6 @@ I'm passionate about learning new technologies and helping others find solutions
 📫 How to reach me: mpab28@gmail.com
 
 || Skills:
-
 - JavaScript
 - HTML5 
 - CSS3 
