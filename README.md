@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi there, I'm Marcela! 
 
-<!--
-**marcela-acosta/marcela-acosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|| About me:
 
-Here are some ideas to get you started:
+I'm passionate about learning new technologies and helping others find solutions to their digital problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏠 I’m currently living in Japan.
+🧠 Learning JavaScript.
+📫 How to reach me: mpab28@gmail.com
+
+|| Skills:
+
+- JavaScript
+- HTML5 
+- CSS3 
+- Bootstrap 
+- SASS
+- Git
