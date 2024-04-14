@@ -2,19 +2,16 @@
 
 || About me:
 
-I'm passionate about learning new technologies and helping others find solutions to their digital problems.
+I'm passionate about leveraging data analytics to uncover insights and help others solve complex digital challenges.
 
-- 🏠 I’m currently living in Japan.
+- 🏠 I’m currently living in Uruguay.
 - 🧠 Learning Python.
 - 📫 How to reach me: mpab28@gmail.com
 
 || Skills:
-- Python
-- SQL
+- Excel
 - Tableau
-- JavaScript
-- HTML5 
-- CSS3 
-- Bootstrap 
-- SASS
+- Power BI
+- SQL
+- Python
 - Git
